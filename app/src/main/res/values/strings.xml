@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">NaiXu</string>
+    <string name="app_name">Nai xừ</string>
+    <string name="logo_string">ղɑ¡ ✘ừ</string>
+
+    <string name="button_dialog_ok">OK</string>
+
+    <string name="item_btm_home">Home</string>
+    <string name="item_btm_training">Training</string>
+    <string name="item_btm_exam">Exam</string>
+    <string name="item_btm_more">More</string>
+
+    -- fragment home
+    <string name="button_view_more">View more</string>
+    <string name="label_view_daily_blog">Shared corner</string>
+    <string name="label_view_daily_challenge">Daily challenge</string>
+    <string name="label_view_game">Game</string>
+
+    -- fragment daily blog
+    <string name="label_daily_blog_fragment">Shared corner</string>
+    <string name="hint_edit_text_user_think">what you\'re thinking? ...</string>
+    <string name="button_like_daily_blog">Useful</string>
+    <string name="button_comment_daily_blog">Comment</string>
+    <string name="button_share_daily_blog">Share</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#29B6F6</color>
+    <color name="colorPrimary">#004D70</color>
     <color name="colorPrimaryDark">#33000000</color>
     <color name="colorAccent">#D81B60</color>
 
@@ -8,17 +8,21 @@
     <color name="black">#000</color>
     <color name="white">#FFFFFF</color>
     <color name="red">#F44336</color>
-    <color name="blue">#2196F3</color>
+    <color name="blue">#0087C4</color>
     <color name="orange">#F1653F</color>
 
     <color name="dark_20">#33000000</color>
+    <color name="dark_10">#1A000000</color>
+    <color name="dark_5">#0D000000</color>
+    <color name="light_20">#33FFFFFF</color>
     <color name="violet">#9C27B0</color>
 
     <color name="bottom_menu">#CC004D40</color>
-
     <color name="item_btm">#D9D81B60</color>
-
+    <color name="blue_40">#66ADDBFF</color>
     <color name="blue_70">#B3ADDBFF</color>
-
     <color name="blue_85">#D9ADDBFF</color>
+    <color name="blue_2_85">#D9E9F5FF</color>
+
+    <color name="no_color">#00000000</color>
 </resources>
